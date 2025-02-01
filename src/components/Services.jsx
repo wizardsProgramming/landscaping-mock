@@ -16,7 +16,7 @@ function Services() {
             <CardMedia
               component="img"
               height="200"
-              image="/images/lawnCutting.jpg" // Replace with actual image URL
+              image="./images/lawnCutting.jpg" // Replace with actual image URL
               alt="Lawn Care"
             />
             <CardContent>
@@ -36,7 +36,7 @@ function Services() {
             <CardMedia
               component="img"
               height="200"
-              image="/images/gardenDesign.jpg" // Replace with actual image URL
+              image="./images/gardenDesign.jpg" // Replace with actual image URL
               alt="Garden Design"
             />
             <CardContent>
@@ -56,7 +56,7 @@ function Services() {
             <CardMedia
               component="img"
               height="200"
-              image="/images/patioFence.jpg" // Replace with actual image URL
+              image="./images/patioFence.jpg" // Replace with actual image URL
               alt="Hardscaping"
             />
             <CardContent>
