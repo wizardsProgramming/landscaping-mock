@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/landscaping-mock/static/css/main.e6c13ad2.css",
+    "main.js": "/landscaping-mock/static/js/main.8e161777.js",
+    "index.html": "/landscaping-mock/index.html",
+    "main.e6c13ad2.css.map": "/landscaping-mock/static/css/main.e6c13ad2.css.map",
+    "main.8e161777.js.map": "/landscaping-mock/static/js/main.8e161777.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8e161777.js"
+  ]
+}
