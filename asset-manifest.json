@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/landscaping-mock/static/css/main.e6c13ad2.css",
-    "main.js": "/landscaping-mock/static/js/main.1f5ccb7c.js",
+    "main.js": "/landscaping-mock/static/js/main.18a23bb0.js",
     "index.html": "/landscaping-mock/index.html",
     "main.e6c13ad2.css.map": "/landscaping-mock/static/css/main.e6c13ad2.css.map",
-    "main.1f5ccb7c.js.map": "/landscaping-mock/static/js/main.1f5ccb7c.js.map"
+    "main.18a23bb0.js.map": "/landscaping-mock/static/js/main.18a23bb0.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1f5ccb7c.js"
+    "static/js/main.18a23bb0.js"
   ]
 }
